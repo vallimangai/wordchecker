@@ -1,0 +1,10 @@
+.txt{
+    padding: 15px !important;
+    text-align: center;
+}
+.jumbotron{
+    text-align: center!important;
+}
+.highlight{
+    background-color: chartreuse;
+}
