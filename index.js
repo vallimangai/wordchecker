@@ -13,5 +13,5 @@ function getInputValue(){
         else
               text += val;
     });
-    document.getElementById("demo").innerHTML=text;
+    document.getElementById("demo").innerHTML=text.replaceAll("\n","<br>");;
 }
